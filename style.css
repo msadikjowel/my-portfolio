@@ -10,8 +10,9 @@ span{
 }
 section{
     display: flex;
-    padding-left: 7%;
+    padding-left: 6%;
     padding-top: 2%;
+    margin-bottom: 80px;
 }
 .half-width{
     width: 50%;
@@ -31,4 +32,20 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.second{
+    width: 50%;
+}
+.second img{
+    width: 70%;
+    padding-right: 10%;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.second-paragraph{
+    padding-right: 22%;
+    
 }
